@@ -1,1 +1,3 @@
-# sos-game-in-c
+Tek bir komut konsolu ekranında 2 oyuncunun sos oyunu oynamasını sağlar. Oyun tahtasının boyutu `boyut` değişkeni üzerinden değiştirilebilir. Öncelikle oyunculardan isimleri alınır. Ardından oyunuculardan yapmak doldurmak istedikleri kutucuğun satır ve sütun konumları alınır. Eğer kutucuk boş ise oyuncudan S veya O harfi girmesi beklenir. S (s) veya O (o) dışında bir karakter girilirse oyuncudan tekrar kutucuk ve harf alınır. Eğer oyuncu S (s) veya O (o) harfi girmişse puan alıp almadığı kontrol edilir. Puan almamışsa sıra diğer oyuncuya geçer, almışsa sıra aynı oyuncudan devam eder. Tüm kutular dolana kadar oyun devam eder. Tüm kutular dolduktan sonra puanı çok olan oyuncu oyunu kazanır.
+
+<img src="sos-game-in-c.png">
